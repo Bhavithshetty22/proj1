@@ -238,7 +238,7 @@ const HeroSection = () => {
 
         <div className="intro-container">
           <h2 className="name" ref={nameRef}>
-            Hi, I'm Tajmirul.
+            Hi, I'm Bhavith.
           </h2>
 
           <div className="description">
